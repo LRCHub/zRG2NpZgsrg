@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "テトリス (Cover)",
+  "base_artist": "そらる",
+  "createdAt": "2026-03-08T20:01:22.840704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/01_テトリス_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/02_テトリス_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テトリス(Tetoris)",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/03_テトリス(Tetoris)_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tetoris / テトリス",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/04_Tetoris___テトリス_柊マグネタイト.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もし「テトリス」を他のボカロPが作ったらきっとこうなる【マッシュアップ風アレンジ】",
+      "artist": "三森2",
+      "has_synced": true,
+      "path": "select/05_もし「テトリス」を他のボカロPが作ったらきっとこうなる【マッシュアップ風アレンジ】_三森2.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tetoris テトリス",
+      "artist": "柊マグネタイト feat. Kasane Teto",
+      "has_synced": true,
+      "path": "select/06_Tetoris_テトリス_柊マグネタイト_feat._Kasane_Teto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テトリス - Cover",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/pl_01_テトリス_-_Cover_そらる.txt"
+    }
+  ]
+}
